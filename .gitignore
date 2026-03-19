@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+chromedriver.exe
